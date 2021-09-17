@@ -18,8 +18,6 @@
 
 <img height="380" width="400" src="https://user-images.githubusercontent.com/68880847/133620673-463a507e-950b-4ac6-91b2-5dbc5a370e76.jpg"> <img height="380" src="https://user-images.githubusercontent.com/68880847/133618987-ff9d1336-ba5e-489d-bb9c-2f79f533dbd4.png">
 
-`* 현재 모델 배포하는 과정에서 서버에 문제가 생겨 어플 내에서 객체 검출 기능은 제대로 되지 않음`
-
 
 ### - 식단 추천
 - 부족한 영양 정보를 토대로 새로운 식단 추천
